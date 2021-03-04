@@ -43,6 +43,22 @@ namespace WebAPI.Controllers
             _contexto.SaveChanges();
             return Ok();
         }
+        
+        [HttpGet("AddRange")]
+        public ActionResult GetAddRange()
+        {
+            _contexto.AddRange(
+                new Heroi { Nome = "Capitão America" },
+                new Heroi { Nome = "Doutor Estranho" },
+                new Heroi { Nome = "Pantera Negra" },
+                new Heroi { Nome = "Viuva Negra" },
+                new Heroi { Nome = "Hulk" },
+                new Heroi { Nome = "Gavião Arqueiro" },
+                new Heroi { Nome = "Capitã Marvel" }
+                );
+            _contexto.SaveChanges();
+            return Ok();
+        }
 
         // POST api/<HeroAppController>
         [HttpPost]
@@ -60,6 +76,11 @@ namespace WebAPI.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var heroi = _contexto.Herois
+                        .Where(x => x.Id == id)
+                        .Single();
+            _contexto.Herois.Remove(heroi);
+            _contexto.SaveChanges();
         }
     }
 }

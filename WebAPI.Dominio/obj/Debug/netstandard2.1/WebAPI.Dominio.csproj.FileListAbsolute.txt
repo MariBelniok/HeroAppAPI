@@ -6,3 +6,4 @@ C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Dominio\obj\Debug\netstanda
 C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Dominio\obj\Debug\netstandard2.1\WebAPI.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Dominio\obj\Debug\netstandard2.1\WebAPI.Dominio.dll
 C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Dominio\obj\Debug\netstandard2.1\WebAPI.Dominio.pdb
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Dominio\obj\Debug\netstandard2.1\WebAPI.Dominio.csprojAssemblyReference.cache

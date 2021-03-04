@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebAPI.Repo;
 
 namespace WebAPI.Repo.Migrations
 {
     [DbContext(typeof(HeroiContexto))]
-    partial class HeroiContextoModelSnapshot : ModelSnapshot
+    [Migration("20210304193134_TipoAlteradoNomeReal")]
+    partial class TipoAlteradoNomeReal
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

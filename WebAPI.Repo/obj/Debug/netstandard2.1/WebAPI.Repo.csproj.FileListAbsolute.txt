@@ -1,0 +1,12 @@
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.csprojAssemblyReference.cache
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.AssemblyInfoInputs.cache
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.AssemblyInfo.cs
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.csproj.CoreCompileInputs.cache
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\bin\Debug\netstandard2.1\WebAPI.Dominio.dll
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\bin\Debug\netstandard2.1\WebAPI.Repo.deps.json
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\bin\Debug\netstandard2.1\WebAPI.Repo.dll
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\bin\Debug\netstandard2.1\WebAPI.Repo.pdb
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\bin\Debug\netstandard2.1\WebAPI.Dominio.pdb
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.csproj.CopyComplete
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.dll
+C:\Users\marianna.belniok\source\repos\WebAPI\WebAPI.Repo\obj\Debug\netstandard2.1\WebAPI.Repo.pdb

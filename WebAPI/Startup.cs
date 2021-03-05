@@ -32,6 +32,7 @@ namespace WebAPI
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+            services.AddScoped<IEFCoreRepository, EFCoreRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
